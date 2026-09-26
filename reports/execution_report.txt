@@ -1,0 +1,7 @@
+SELENIUM CAPSTONE ASSIGNMENT 1 - EXECUTION REPORT
+=======================================================
+Execution Date: 2026-09-26 11:07:21.111347
+Application: SauceDemo
+Browser: Google Chrome
+=======================================================
+
